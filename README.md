@@ -70,4 +70,6 @@ Models, materials, and sounds are made by the original creator(s).
 
 This project is licensed under the GPL-3.0 License. Only script files (*.lua and *.au3) fall under this license.
 
+**This item is commissioned work.**
+
 MeteorTheLizard - https://www.meteorthelizard.com
