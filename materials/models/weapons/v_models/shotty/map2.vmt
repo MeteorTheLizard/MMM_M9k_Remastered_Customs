@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\shotty\map2"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\shotty\map2ref"
+	"$envmaptint" "[.80 .80 .80]"
+}
+

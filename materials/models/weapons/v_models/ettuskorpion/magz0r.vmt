@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\weapons\v_models\ettuSkorpion\magz0r"
+	"$bumpmap" 	"models\weapons\v_models\ettuSkorpion\magz0r_normal"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\emdg_glock18\frame"
+	"$nocull"	"1"
+}

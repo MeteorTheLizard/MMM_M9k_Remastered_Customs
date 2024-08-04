@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "M9K Customs"
+	"author_name" "Author Name"
+	"info" "{"title":"M9K Customs","type":"weapon","tags":["roleplay","fun","realism"],"ignore":[]}"
+}

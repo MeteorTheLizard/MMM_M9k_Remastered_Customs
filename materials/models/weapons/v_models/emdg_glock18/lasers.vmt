@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\emdg_glock18\lasers"
+	"$model"	"1"
+	"$translucent"	"1"
+	"$alphatest"	"1"
+	"$selfillum"	"1"
+}
+

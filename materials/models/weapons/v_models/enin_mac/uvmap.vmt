@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\enin_mac\thanezskin"
+	"$bumpmap" "models\weapons\v_models\enin_mac\thaneznormal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 	"1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 22]"
+	"$phongalbedotint" "1"
+}

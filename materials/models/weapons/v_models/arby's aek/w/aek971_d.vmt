@@ -1,0 +1,9 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  "models\weapons\v_models\Arby's AEK\aek971_D"
+	"$bumpmap"     "models\weapons\v_models\Arby's AEK\aek971_n"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost" "4"
+	"$phongfresnelranges" "[.05 .5 5]"
+}

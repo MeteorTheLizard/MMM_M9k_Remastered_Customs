@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\enin_mac\thanezskin"
+	"$bumpmap" "models\weapons\v_models\enin_mac\thaneznormal"
+}

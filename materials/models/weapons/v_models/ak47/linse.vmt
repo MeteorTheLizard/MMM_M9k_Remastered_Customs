@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\ak47\linse"
+	"$additive" "1"
+	"$translucent"	"1"
+	"$model" "1"
+}
