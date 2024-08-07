@@ -41,6 +41,7 @@ SWEP.tDrawSoundSequence = {
 }
 
 SWEP.Primary.Sound = "weapons/silencedglock/glock18-1.wav"
+SWEP.Primary.SoundVolume = 65 -- Silenced!
 
 SWEP.Primary.RPM = 480
 SWEP.Primary.ClipSize = 30
